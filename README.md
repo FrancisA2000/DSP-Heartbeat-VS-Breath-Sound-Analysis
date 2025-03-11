@@ -67,13 +67,7 @@ DSP-Heartbeat-Breath
 ├── docs/
 │   └── Project_Documentation.pdf
 ├── src/
-│   ├── main.c
-│   ├── Filters/
-│   │   ├── fdacoefs_NOTCH.h
-│   │   ├── fdacoefs_IIR_BS.h
-│   │   └── fdacoefs_IIR_HB.h
-│   └── Data/
-│       └── HB_BS_Signal.h
+│   ├── Heartbeat_VS_BreathSound_FinalProject.ZIP
 └── README.md
 ```
 
