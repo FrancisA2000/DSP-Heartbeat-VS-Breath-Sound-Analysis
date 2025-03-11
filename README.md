@@ -54,8 +54,8 @@ The program is structured to leverage real-time multitasking capabilities of TI-
 
 ### Screenshots
 - **Notch Filtering:** ![image](https://github.com/user-attachments/assets/c1b69c1c-8e82-48a7-bd94-33c08ca01a80)
-- **Heartbeat Filtering:** ![image](https://github.com/user-attachments/assets/b6c01d14-d124-45b7-b660-797c2067a513)
-- **Breath sound Filtering:** ![image](https://github.com/user-attachments/assets/4c21ae65-7356-4dad-81bb-46e6e5a9ea77)
+- **Breath sound Filtering:** ![image](https://github.com/user-attachments/assets/b6c01d14-d124-45b7-b660-797c2067a513)
+- **Heartbeat Filtering:** ![image](https://github.com/user-attachments/assets/4c21ae65-7356-4dad-81bb-46e6e5a9ea77)
 
 - **Envelope Analysis:** Accurate detection of signal peaks using envelope smoothing techniques.
 - **Performance Metrics:** Execution graph, task load, and CPU utilization clearly indicating real-time performance.
