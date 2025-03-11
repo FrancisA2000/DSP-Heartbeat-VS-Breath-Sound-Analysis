@@ -1,4 +1,4 @@
-# Heartbeat and Breath Sound Separation Using DSP
+## Heartbeat and Breath Sound Separation Using DSP
 
 ## Project Overview
 
@@ -62,12 +62,12 @@ The program is structured to leverage real-time multitasking capabilities of TI-
   
 ## Comprehensive Documentation
 For detailed insights, theoretical background, design considerations, complete methodology, results, and graphs, refer to the comprehensive project documentation:
-[Comprehensive Documentation](docs/DSP-Heartbeat-VS-Breath-Sound-Analysis.pdf)
+[DSP-Heartbeat-VS-Breath-Sound-Analysis.pdf](docs/DSP-Heartbeat-VS-Breath-Sound-Analysis.pdf)
 
 ## Repository Structure
 
 ```
-DSP-Heartbeat-Breath
+DSP-Heartbeat-VS-Breath-Sound-Analysis
 ├── docs/
 │   └── DSP-Heartbeat-VS-Breath-Sound-Analysis.pdf
 ├── src/
@@ -95,8 +95,8 @@ Programming DSP Processors, Department of Electrical and Electronic Engineering,
 - Open **Code Composer Studio**.
 - Select ```File -> Import... -> CCS``` Projects, then click **Next**.
 - Choose **Select archive file** and import:
-- ```DSP-Heartbeat-Breath/src/Heartbeat_VS_BreathSound_FinalProject.ZIP```
+- ``` [Heartbeat_VS_BreathSound_FinalProject.ZIP](src/Heartbeat_VS_BreathSound_FinalProject.ZIP)```
 - Click **Finish** to import.
 - Build the project via ```Project -> Build Project```.
 - Debug and run on the connected DSP hardware.
-  
+  [DSP-Heartbeat-VS-Breath-Sound-Analysis.pdf](docs/DSP-Heartbeat-VS-Breath-Sound-Analysis.pdf)
