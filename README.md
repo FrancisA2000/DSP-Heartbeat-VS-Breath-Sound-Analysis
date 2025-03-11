@@ -96,7 +96,8 @@ Programming DSP Processors, Department of Electrical and Electronic Engineering,
 - Open **Code Composer Studio**.
 - Select ```File -> Import... -> CCS``` Projects, then click **Next**.
 - Choose **Select archive file** and import:
-- [Heartbeat_VS_BreathSound_FinalProject.ZIP](src/Heartbeat_VS_BreathSound_FinalProject.ZIP)
+- [Heartbeat_VS_BreathSound_FinalProject.ZIP](src/Heartbeat_VS_BreathSound_FinalProject.zip)
 - Click **Finish** to import.
 - Build the project via ```Project -> Build Project```.
 - Debug and run on the connected DSP hardware.
+  
