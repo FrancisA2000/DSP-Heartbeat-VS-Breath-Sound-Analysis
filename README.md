@@ -59,15 +59,19 @@ The program is structured to leverage real-time multitasking capabilities of TI-
 
 - **Envelope Analysis:** Accurate detection of signal peaks using envelope smoothing techniques.
 - **Performance Metrics:** Execution graph, task load, and CPU utilization clearly indicating real-time performance.
+  
+## Comprehensive Documentation
+For detailed insights, theoretical background, design considerations, complete methodology, results, and graphs, refer to the comprehensive project documentation:
+[Comprehensive Documentation](docs/DSP-Heartbeat-VS-Breath-Sound-Analysis.pdf)
 
 ## Repository Structure
 
 ```
 DSP-Heartbeat-Breath
 ├── docs/
-│   └── Project_Documentation.pdf
+│   └── DSP-Heartbeat-VS-Breath-Sound-Analysis.pdf
 ├── src/
-│   ├── Heartbeat_VS_BreathSound_FinalProject.ZIP
+│   ├── Heartbeat_VS_BreathSound_FinalProject.zip
 └── README.md
 ```
 
