@@ -17,8 +17,8 @@ This project demonstrates real-time Digital Signal Processing (DSP) to distingui
 - **Buffer Size:** 4405 samples
 - **Filters:**
   - **Notch Filter (IIR):** Removes noise at 250 Hz.
-  - **Heartbeat Detection:** IIR Elliptic Lowpass Filter (below 135 Hz).
-  - **Breath Sound Detection:** IIR Elliptic Highpass Filter (>135 Hz).
+  - **Breath Sound Detection:** IIR Elliptic Lowpass Filter (below 135 Hz).
+  - **Heartbeat Detection:** IIR Elliptic Highpass Filter (>135 Hz).
 
 ### Tools & Technologies Used
 
